@@ -1,5 +1,5 @@
-import { _decorator, Component, Node } from 'cc';
-const { ccclass, property } = _decorator;
+import { _decorator, Component } from 'cc';
+const { ccclass } = _decorator;
 
 @ccclass('PlayerState')
 export class PlayerState extends Component {
@@ -7,48 +7,26 @@ export class PlayerState extends Component {
 
     constructor() {
         super();
-        this.loadState();
+        // Removed loading state from local storage
     }
 
     addParameter(name: string, amount: number) {
-        this.loadState();
-
         const current = this.parameters.get(name) || 0;
         this.parameters.set(name, current + amount);
-        this.saveState();
+        // Removed saving state to local storage
     }
 
     subtractParameter(name: string, amount: number) {
-        this.loadState();
-
         const current = this.parameters.get(name) || 0;
         if (current >= amount) {
             this.parameters.set(name, current - amount);
-            this.saveState();
+            // Removed saving state to local storage
         } else {
             console.error(`Not enough ${name} to subtract.`);
         }
     }
 
     getParameter(name: string): number {
-        this.loadState();
-
         return this.parameters.get(name) || 0;
-    }
-
-    private saveState() {
-        const state: { [key: string]: number } = {};
-        this.parameters.forEach((value, key) => {
-            state[key] = value;
-        });
-        cc.sys.localStorage.setItem('playerState', JSON.stringify(state));
-    }
-
-    private loadState() {
-        const state = JSON.parse(cc.sys.localStorage.getItem('playerState') || '{}');
-        for (const key in state) {
-            this.parameters.set(key, state[key]);
-        }
-
     }
 }
