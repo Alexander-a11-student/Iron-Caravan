@@ -4,9 +4,16 @@
     "designResolution": {
       "height": 1200,
       "width": 740,
-      "fitHeight": false
+      "fitHeight": true,
+      "fitWidth": false
     },
     "highQuality": false
   },
-  "custom_joint_texture_layouts": []
+  "custom_joint_texture_layouts": [],
+  "layer": [
+    {
+      "name": "UI",
+      "value": 1
+    }
+  ]
 }

@@ -111,7 +111,7 @@ export class ScreenManager extends Component {
 
             // Вычисляем изменение расстояности и коэффициент зума
             console.log("Current distance:", currentDistance, "Initial distance:", this.initialDistance);
-            const zoomFactor = (currentDistance - this.initialDistance) * 0.5; // Коэффициент зума
+            const zoomFactor = (currentDistance - this.initialDistance) * 0.3; // Коэффициент зума
             this.initialDistance = currentDistance; // Обновляем начальное расстояние
 
             if (this.camera) {
@@ -137,18 +137,18 @@ export class ScreenManager extends Component {
         }
     }
     
-    update(deltaTime: number) {
-        if (this.velocity.length() > 0.1) {
-            if (this.camera) {
-                const cameraPos = this.camera.node.position;
-                const newX = Math.min(this.maxX, Math.max(this.minX, cameraPos.x - this.velocity.x * deltaTime));
-                const newY = Math.min(this.maxY, Math.max(this.minY, cameraPos.y - this.velocity.y * deltaTime));
-                this.camera.node.setPosition(newX, newY, cameraPos.z);
-            }
-            // Замедляем затухание до 0.99 для более длительного движения
-            this.velocity.multiplyScalar(0.99);
-        } else {
-            this.velocity.set(0, 0);
-        }
-    }
+    // update(deltaTime: number) {
+    //     if (this.velocity.length() > 0.1) {
+    //         if (this.camera) {
+    //             const cameraPos = this.camera.node.position;
+    //             const newX = Math.min(this.maxX, Math.max(this.minX, cameraPos.x - this.velocity.x * deltaTime));
+    //             const newY = Math.min(this.maxY, Math.max(this.minY, cameraPos.y - this.velocity.y * deltaTime));
+    //             this.camera.node.setPosition(newX, newY, cameraPos.z);
+    //         }
+    //         // Замедляем затухание до 0.99 для более длительного движения
+    //         this.velocity.multiplyScalar(0.99);
+    //     } else {
+    //         this.velocity.set(0, 0);
+    //     }
+    // }
 }
