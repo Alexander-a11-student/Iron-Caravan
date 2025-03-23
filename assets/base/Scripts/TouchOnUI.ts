@@ -7,9 +7,9 @@ export class TouchOnMap extends Component {
     private static eventTarget = new EventTarget(); // Локальный EventTarget для передачи событий
 
     // Фактор уменьшения кнопки при нажатии (например, 0.8 = уменьшение до 80% от исходного размера)
-    private scaleFactor: number = 0.7;
+    private scaleFactor: number = 0.6;
     // Длительность анимации (в секундах)
-    private animationDuration: number = 0.2;
+    private animationDuration: number = 0.3;
 
     // Переменная для хранения текущей анимации (чтобы можно было её остановить)
     private currentTween: Tween<Node> | null = null;

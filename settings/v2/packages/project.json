@@ -2,12 +2,13 @@
   "__version__": "1.0.6",
   "general": {
     "designResolution": {
-      "height": 1200,
-      "width": 740,
-      "fitHeight": true,
+      "height": 960,
+      "width": 640,
+      "fitHeight": false,
       "fitWidth": false
     },
-    "highQuality": false
+    "highQuality": false,
+    "downloadMaxConcurrency": 15
   },
   "custom_joint_texture_layouts": [],
   "layer": [
