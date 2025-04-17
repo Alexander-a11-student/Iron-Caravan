@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\MapManager.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\map\\MapManager.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\MapManager.ts.meta||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\map\\MapManager.ts.meta||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\MapTile.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\map\\MapTile.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\prefabs.meta||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\map\\prefabs.meta||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\prefabs\\mudTilePrefab.prefab||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\map\\prefabs\\mudTilePrefab.prefab||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\prefabs\\grassTilePrefab.prefab||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\map\\prefabs\\grassTilePrefab.prefab||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\TerrainInfoController.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\map\\TerrainInfoController.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\MapTile.ts.meta||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\map\\MapTile.ts.meta||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\TileType.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\map\\TileType.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\CameraController.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\map\\CameraController.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProgramData\\cocos\\editors\\Creator\\3.8.5\\resources\\resources\\3d\\engine\\bin\\.declarations\\cc.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\PlayerState.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\PlayerState.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\SC_map.scene||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\map\\SC_map.scene||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MapManager.ts.meta",
+              "DocumentMoniker": "D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\MapManager.ts.meta",
+              "RelativeDocumentMoniker": "assets\\map\\MapManager.ts.meta",
+              "ToolTip": "D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\MapManager.ts.meta",
+              "RelativeToolTip": "assets\\map\\MapManager.ts.meta",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-10T22:02:59.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "prefabs.meta",
+              "DocumentMoniker": "D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\prefabs.meta",
+              "RelativeDocumentMoniker": "assets\\map\\prefabs.meta",
+              "ToolTip": "D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\prefabs.meta",
+              "RelativeToolTip": "assets\\map\\prefabs.meta",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-10T22:02:53.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mudTilePrefab.prefab",
+              "DocumentMoniker": "D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\prefabs\\mudTilePrefab.prefab",
+              "RelativeDocumentMoniker": "assets\\map\\prefabs\\mudTilePrefab.prefab",
+              "ToolTip": "D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\prefabs\\mudTilePrefab.prefab",
+              "RelativeToolTip": "assets\\map\\prefabs\\mudTilePrefab.prefab",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAkwCUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-10T21:45:02.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "grassTilePrefab.prefab",
+              "DocumentMoniker": "D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\prefabs\\grassTilePrefab.prefab",
+              "RelativeDocumentMoniker": "assets\\map\\prefabs\\grassTilePrefab.prefab",
+              "ToolTip": "D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\prefabs\\grassTilePrefab.prefab",
+              "RelativeToolTip": "assets\\map\\prefabs\\grassTilePrefab.prefab",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-10T21:44:58.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MapTile.ts.meta",
+              "DocumentMoniker": "D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\MapTile.ts.meta",
+              "RelativeDocumentMoniker": "assets\\map\\MapTile.ts.meta",
+              "ToolTip": "D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\MapTile.ts.meta",
+              "RelativeToolTip": "assets\\map\\MapTile.ts.meta",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-10T19:52:18.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TerrainInfoController.ts",
+              "DocumentMoniker": "D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\TerrainInfoController.ts",
+              "RelativeDocumentMoniker": "assets\\map\\TerrainInfoController.ts",
+              "ToolTip": "D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\TerrainInfoController.ts",
+              "RelativeToolTip": "assets\\map\\TerrainInfoController.ts",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAnwHcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-10T19:47:25.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "cc.d.ts",
+              "DocumentMoniker": "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.5\\resources\\resources\\3d\\engine\\bin\\.declarations\\cc.d.ts",
+              "ToolTip": "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.5\\resources\\resources\\3d\\engine\\bin\\.declarations\\cc.d.ts",
+              "ViewState": "AgIAAB5EAAAAAAAAAAAlwDFEAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-10T18:15:27.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CameraController.ts",
+              "DocumentMoniker": "D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\CameraController.ts",
+              "RelativeDocumentMoniker": "assets\\map\\CameraController.ts",
+              "ToolTip": "D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\CameraController.ts",
+              "RelativeToolTip": "assets\\map\\CameraController.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-10T19:08:07.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerState.ts",
+              "DocumentMoniker": "D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\PlayerState.ts",
+              "RelativeDocumentMoniker": "assets\\PlayerState.ts",
+              "ToolTip": "D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\PlayerState.ts",
+              "RelativeToolTip": "assets\\PlayerState.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-10T17:59:26.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TileType.ts",
+              "DocumentMoniker": "D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\TileType.ts",
+              "RelativeDocumentMoniker": "assets\\map\\TileType.ts",
+              "ToolTip": "D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\TileType.ts",
+              "RelativeToolTip": "assets\\map\\TileType.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-10T17:59:23.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MapManager.ts",
+              "DocumentMoniker": "D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\MapManager.ts",
+              "RelativeDocumentMoniker": "assets\\map\\MapManager.ts",
+              "ToolTip": "D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\MapManager.ts",
+              "RelativeToolTip": "assets\\map\\MapManager.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-10T17:45:32.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MapTile.ts",
+              "DocumentMoniker": "D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\MapTile.ts",
+              "RelativeDocumentMoniker": "assets\\map\\MapTile.ts",
+              "ToolTip": "D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\MapTile.ts",
+              "RelativeToolTip": "assets\\map\\MapTile.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-10T17:45:31.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SC_map.scene",
+              "DocumentMoniker": "D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\SC_map.scene",
+              "RelativeDocumentMoniker": "assets\\map\\SC_map.scene",
+              "ToolTip": "D:\\coding\\codes\\cocos\\Iron-Caravan-MAP-main\\Iron-Caravan-MAP-main\\assets\\map\\SC_map.scene",
+              "RelativeToolTip": "assets\\map\\SC_map.scene",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAAAH8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-10T16:17:35.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
